@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LosColores</string>
+    <string name="btncolor1">Rosado</string>
+    <string name="btncolor2">Azul</string>
+    <string name="btncolor3">Verde</string>
+    <string name="btncolor4">Naranja</string>
+    <string name="btnrestab">Restablecer</string>
+
+</resources>
